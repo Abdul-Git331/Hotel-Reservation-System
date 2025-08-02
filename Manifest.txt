@@ -1,0 +1,2 @@
+Main-Class: index
+Class-Path: C:\Program Files\MySQL\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar
