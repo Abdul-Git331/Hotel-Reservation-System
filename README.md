@@ -1,3 +1,4 @@
+
 Hotel Reservation System (Java + MySQL)
 
 This is a simple **Hotel Reservation System** built using **Java** and **MySQL** that allows you to:
@@ -6,6 +7,13 @@ This is a simple **Hotel Reservation System** built using **Java** and **MySQL**
 - Retrieve room number by reservation ID
 - Update reservation details
 - Delete reservations
+
+---
+
+Author
+
+Abdul Kayum
+GitHub: Abdul-Git331
 
 ---
 
